@@ -1,6 +1,8 @@
 
 # AdminLTE2.RazorPages
 
+![.NET Core](https://github.com/michaelfery/AdminLTE2.RazorPages/workflows/.NET%20Core/badge.svg)
+
 ASP.NET Core Razor Pages version of the original AdminLTE dashboard https://adminlte.io
 ## Prerequisites
 - [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=inline+link&utm_content=download+vs2019) with the ASP.NET and web development workload
