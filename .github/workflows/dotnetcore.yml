@@ -24,5 +24,5 @@ jobs:
     - name: Test
       run: dotnet test --no-restore --verbosity normal
     - name: Package
+      if: github.ref == 'refs/heads/master'
       uses: dotnet publish -c Release -o package
-      if: github.ref == 'refs/head/master'
